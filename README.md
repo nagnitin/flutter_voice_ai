@@ -19,4 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ### Landing Page
 
-![Landing Page Screenshot](screenshot.png)
+![Landing Page Screenshot](home page.jpg)
