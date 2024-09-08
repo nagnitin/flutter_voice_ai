@@ -19,4 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ### Landing Page
 
-![Landing Page Screenshot](homepage.jpg)
+![Landing Page Screenshot](https://github.com/nagnitin/flutter_voice_ai/blob/main/home%20page.jpg)
